@@ -21,3 +21,18 @@ print("2 + 3", 2+3)
 print("5 -2 * 2", 5 - 2 * 2)
 print("(5 -2) * 2", (5 - 2) * 2)
 print("17 / 3", 17 / 3)
+print("")
+print("Strings")
+test = 64567
+print(test)
+print("")
+print("Quote \"me\" ")
+HellowWorld = "Hello World!"
+print(HellowWorld)
+print(HellowWorld[0:5])
+print(HellowWorld[1:5])
+print(HellowWorld[6:])
+print(HellowWorld[6:-1])
+goodbye = "Goodbye"
+print(goodbye + " Cruel " + HellowWorld[6:])
+
